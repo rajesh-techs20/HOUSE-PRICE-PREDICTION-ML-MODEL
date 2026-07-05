@@ -90,5 +90,4 @@ This project predicts house prices using a Machine Learning model.
 
 ### Developed By
 Rajesh G R
-ECE Student
 """)
